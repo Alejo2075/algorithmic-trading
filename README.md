@@ -1,1 +1,2 @@
-![Algorithm Trading Platform ](https://github.com/user-attachments/assets/c1ea46a3-c5d7-45a2-8046-67935c2b4f88)
+![Algorithm Trading Platform ](https://github.com/user-attachments/assets/acd30714-c36b-4c6a-ae73-4d905f036b44)
+
