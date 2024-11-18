@@ -1,4 +1,5 @@
-![Algorithm Trading Platform ](https://github.com/user-attachments/assets/acd30714-c36b-4c6a-ae73-4d905f036b44)
+![Algorithm Trading Platform ](https://github.com/user-attachments/assets/42455ca5-686b-4555-9519-7b58ae987d56)
+
 
 A modular monolithic architecture optimized for low-latency algorithmic trading, designed to automate and enhance real-time trading strategies.
 
