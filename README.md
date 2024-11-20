@@ -15,7 +15,8 @@ A modular monolithic architecture optimized for low-latency algorithmic trading,
 - Building a flexible yet secure infrastructure for dynamic trading strategies.
 
 ## 🛠️ Architecture
-![Algorithmic Trading Platform drawio](https://github.com/user-attachments/assets/f452a7fe-9ad0-4c63-b30c-1d5144ed0983)
+![Algorithmic Trading Platform drawio](https://github.com/user-attachments/assets/7ee4b858-eca0-4723-8904-3f7ed2393487)
+
 
 
 ## 💻 Tech Stack
